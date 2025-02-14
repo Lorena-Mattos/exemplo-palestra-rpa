@@ -56,7 +56,7 @@ python produtos_casabahia.py
 
 ## 📝 Licença
 
-Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais detalhes.
+Distribuído sob a licença MIT. Veja [LICENSE](https://github.com/Lorena-Mattos/exemplo-palestra-rpa/blob/main/LICENSE) para mais detalhes.
 
 ---
 
